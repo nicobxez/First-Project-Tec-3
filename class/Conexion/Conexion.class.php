@@ -1,5 +1,6 @@
 <?php
-require_once $_SERVER['DOCUMENT_ROOT'] . '/tec3/config/config.php';
+
+['DOCUMENT_ROOT'] . '/First-Project-Tec-3/config/config.php';
 class Conexion extends Mysqli
 {
   private $host;
